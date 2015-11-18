@@ -1,0 +1,5 @@
+.cache
+*.ipynb
+*.ideo/*.xml
+__pycache__/
+.ipynb_checkpoints
